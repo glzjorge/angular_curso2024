@@ -1,0 +1,22 @@
+{
+  "name": "fullstack-devops",
+  "version": "1.0.0",
+  "description": "proyecto angular",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glzjorge/angular_curso2024.git"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "author": "jorge gonzalez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/glzjorge/angular_curso2024/issues"
+  },
+  "homepage": "https://github.com/glzjorge/angular_curso2024#readme"
+}
